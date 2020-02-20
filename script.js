@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', f137);
 
 
-f137 = DZ.init({
+var f137 = DZ.init({
     appId  : '395764',
     channelUrl : 'https://my137.com',
 	// player : {
